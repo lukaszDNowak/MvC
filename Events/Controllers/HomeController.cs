@@ -29,6 +29,11 @@ namespace Events.Controllers
             return View("Thanks",user);
         }
 
+        public IActionResult List(User user)
+        {        
+            return View(UserRepository.Users);
+        }
+
 
 
 

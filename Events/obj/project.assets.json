@@ -13256,11 +13256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\lukasz.nowak1\\source\\repos\\Events\\Events\\Events.csproj",
+      "projectUniqueName": "D:\\Users\\lukasz.nowak1\\Source\\Repos\\MvC\\Events\\Events.csproj",
       "projectName": "Events",
-      "projectPath": "D:\\Users\\lukasz.nowak1\\source\\repos\\Events\\Events\\Events.csproj",
+      "projectPath": "D:\\Users\\lukasz.nowak1\\Source\\Repos\\MvC\\Events\\Events.csproj",
       "packagesPath": "D:\\Users\\lukasz.nowak1\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\lukasz.nowak1\\source\\repos\\Events\\Events\\obj\\",
+      "outputPath": "D:\\Users\\lukasz.nowak1\\Source\\Repos\\MvC\\Events\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
